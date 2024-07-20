@@ -1,4 +1,4 @@
-# trenchbroom-cheatsheet
+# Trenchbroom Cheatsheet
 
 ## Keybindings
 
@@ -38,7 +38,9 @@
 
 ### CSG 
 
-| `Ctrl + Shift + K`             | Hollow (i.e Hollow out the center of a cube and convert it to its 6 constituent faces. Useful for making rooms out of a cube. |
+| Keybinding                    | Action                                                                                                                        |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| `Ctrl + Shift + K`            | Hollow (i.e Hollow out the center of a cube and convert it to its 6 constituent faces. Useful for making rooms out of a cube. |
 
 ## Resources
 
