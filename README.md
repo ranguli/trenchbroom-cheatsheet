@@ -15,6 +15,8 @@
 | `Space`                       | Change from 3D to 2D views                                      |
 | `Ctrl + Space`                | Maximize the selected view (if multiple view panes are enabled) |
 | `Mousewheel`                  | Zoom the camera in or out                                       |
+| `Ctrl + Alt + I`              | Hides the selected brush                                        |
+| `Ctrl + Shift + I`            | Shows any hidden brushes                                        |
 
 
 | Keybinding                    | Action                              |
